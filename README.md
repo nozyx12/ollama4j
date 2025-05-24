@@ -1,4 +1,4 @@
-# Ollama4J [![GitHub license](https://img.shields.io/badge/license-NPL-red.svg)](LICENSE) [![](https://jitpack.io/v/nozyxoff/ollama4j.svg)](https://jitpack.io/#nozyx12/ollama4j)
+# Ollama4J [![GitHub license](https://img.shields.io/badge/license-NPL-red.svg)](LICENSE) [![](https://jitpack.io/v/nozyx12/ollama4j.svg)](https://jitpack.io/#nozyx12/ollama4j)
 
 **Ollama4J** is a Java client library for interacting with the [Ollama API](https://ollama.ai). It allows you to easily send chat messages to various AI models hosted on an Ollama server and receive responses, including support for images.
 
